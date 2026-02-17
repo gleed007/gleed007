@@ -39,7 +39,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-I am a Full Stack Developer with 4+ years of experience specializing in the ROR, Django and MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
+I am a Full Stack Developer with 6+ years of experience specializing in the ROR, Django and MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
 
 💼 Currently, I’m a Senior Software Engineer at Devsinc, where I lead and mentor teams, optimize system architecture, and convert monolithic applications into microservices for enhanced efficiency.
 
