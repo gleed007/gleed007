@@ -27,7 +27,6 @@
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -39,7 +38,7 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-I am a Full Stack Developer with 6+ years of experience specializing in the ROR, Django and MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
+I am a Full Stack Developer with 4+ years of experience specializing in the ROR, Django and MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
 
 💼 Currently, I’m a Senior Software Engineer at Devsinc, where I lead and mentor teams, optimize system architecture, and convert monolithic applications into microservices for enhanced efficiency.
 
