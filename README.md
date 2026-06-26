@@ -38,11 +38,20 @@
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-I am a Full Stack Developer with 4+ years of experience specializing in the ROR, Django and MERN stack. My expertise lies in architecting scalable, high-performance web applications, focusing on server-side development, UI/UX design, and efficient database management. I am passionate about building innovative digital solutions that enhance user experiences.
+Senior Full Stack Engineer with 4+ years architecting production-grade web applications across healthcare, compliance, and e-commerce. I specialize in Ruby on Rails, Node.js, React, Vue, and AWS — building event-driven systems and distributed architectures that scale.
 
-💼 Currently, I’m a Senior Software Engineer at Devsinc, where I lead and mentor teams, optimize system architecture, and convert monolithic applications into microservices for enhanced efficiency.
+:briefcase: Currently Sr. Full Stack Developer at **SentryKit**, where I led a full platform migration from Java to Rails and built a multi-tenant Amazon Seller intelligence platform from the ground up — designing real-time SP-API → SQS → Lambda pipelines with sub-second latency on AWS (ECS Fargate, RDS, ElastiCache).
 
-🚀 My skills include React.js, Node.js, Ruby on Rails, Python, TypeScript, MongoDB, Laravel, and AWS. I have a strong command of modern development tools and practices, including Docker, Jest, and CI/CD pipelines.
+:rocket: **Stack I work with:**
+- **Backend:** Ruby on Rails, Node.js, NestJS, GraphQL, Python
+- **Frontend:** React, Vue.js, Angular, TypeScript, Tailwind
+- **Infra:** AWS (ECS, Lambda, SQS, RDS, ElastiCache), Azure, GCP Docker, CI/CD
+- **Data:** PostgreSQL, Redis, MongoDB, DynamoDB, ElasticSearch
 
-🎯 I'm always open to new challenges and opportunities in web development and software engineering.
+:chart_with_upwards_trend: **Impact I've shipped:**
+- 60% faster page loads via ElasticSearch integration
+- 30% reduction in background processing time with Sidekiq + Redis caching
+- Zero-downtime platform & infrastructure migrations (Java → Rails, Vultr → AWS)
+
+:dart: Open to senior/staff-level backend and full stack roles.
 
